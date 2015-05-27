@@ -8,7 +8,7 @@ Just require the script.
 ```
 Options
 -------
-```
+```javascript
 setting:
 {
     startline:100,
