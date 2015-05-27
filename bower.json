@@ -1,0 +1,23 @@
+{
+  "name": "scroll2top",
+  "main": "scroll2top.js",
+  "version": "0.9.0",
+  "homepage": "https://github.com/delboy1978uk/scroll2top",
+  "description": "One of those jQuery scroll to top buttons",
+  "keywords": [
+    "scroll",
+    "top",
+    "jquery"
+  ],
+  "authors": [
+    "Derek Stephen McLean"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
